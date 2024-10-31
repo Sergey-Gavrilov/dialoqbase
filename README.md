@@ -168,13 +168,6 @@ This project is tested with BrowserStack.
 
 ## Contributors ✨
 
-<a href="https://github.com/n4ze3m/dialoqbase/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=n4ze3m/dialoqbase" />
-</a>
-
-Interested in contributing? Check out the [contributing guide](CONTRIBUTION.md).
-
-
 ## Sponsors 💖
 
 
